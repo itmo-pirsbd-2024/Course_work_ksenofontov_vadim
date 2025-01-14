@@ -1,4 +1,0 @@
-Manifest-Version: 1.0
-Built-By: vadim
-Build-Jdk: 21.0.5
-

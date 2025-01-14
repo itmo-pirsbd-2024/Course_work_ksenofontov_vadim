@@ -1,5 +1,0 @@
-Manifest-Version: 1.0
-Built-By: vadim
-Build-Jdk: 21.0.5
-Main-Class: org.example.trying2.DataStreamJob
-
